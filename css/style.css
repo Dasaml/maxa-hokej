@@ -706,7 +706,6 @@ body.maxa-hokej {
     flex-direction: column;
     align-items: center;
     gap: 0;
-    margin-bottom: 15px;
 }
 
 .maxa-hokej .hokej-trophy-small {
@@ -968,7 +967,7 @@ body.maxa-hokej {
 .maxa-hokej .maxa-status-done {
     background: #33007B;
     color: #33EE66;
-    border: 1px solid #33EE66;
+    border: 1px solid #44ab60;
 }
 
 .maxa-hokej .maxa-status-waiting {
