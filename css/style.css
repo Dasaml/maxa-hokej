@@ -288,7 +288,7 @@ body.maxa-hokej {
     font-weight: 700;
 }
 
-.hockey-hero-title::after { content: ""; position: absolute; left: 10%; right: 10%; bottom: 0; height: 1px; background: #FFB233; clip-path: polygon(0 40%, 3% 0, 97% 0, 100% 40%, 97% 100%, 3% 100%); box-shadow: 0 0 6px rgba(255, 178, 51, 0.5); }
+.hockey-hero-title::after { content: ""; position: absolute; left: 1%; right: 1%; bottom: 0; height: 1px; background: #FFB233; clip-path: polygon(0 40%, 3% 0, 97% 0, 100% 40%, 97% 100%, 3% 100%); box-shadow: 0 0 6px rgba(255, 178, 51, 0.5); }
 
 .hockey-hero-title h1 {
     color: #ffffff;
