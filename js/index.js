@@ -6,15 +6,14 @@ const menuItems = document.querySelectorAll(".maxa-nav-link");
 if (hamburger && menu) {
     hamburger.addEventListener("click", () => {
         menu.classList.toggle("showMenu");
-        hamburger.classList.toggle("is-active"); // <--- TOTO TADY CHYBĚLO
+        hamburger.classList.toggle("is-active");
     });
-
-    // Zavření menu po kliknutí na položku na mobilu
+    
     menuItems.forEach((item) => {
         item.addEventListener("click", () => {
             if (window.innerWidth < 992) {
                 menu.classList.remove("showMenu");
-                hamburger.classList.remove("is-active"); // <--- A TAKÉ TADY, ať se ikona vrátí zpět
+                hamburger.classList.remove("is-active");
             }
         });
     });
