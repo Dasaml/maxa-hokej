@@ -1051,6 +1051,7 @@ body.maxa-hokej {
 
 .maxa-hokej .maxa-podium-card.maxa-rank-1 {
     order: 1;
+    margin: 0;
 }
 .maxa-hokej .maxa-podium-card.maxa-rank-2 {
     order: 2;
@@ -1394,6 +1395,7 @@ body.maxa-hokej {
         order: 2;
         height: 170px;
         border-color: #FFB233; 
+        margin: 0 0 15px;
     }
     .maxa-hokej .maxa-podium-card.maxa-rank-2 {
         order: 1;
