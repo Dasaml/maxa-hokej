@@ -745,13 +745,14 @@ body.maxa-hokej {
 .maxa-hokej .maxa-schedule-td {
     font-size: 1rem;
     color: #ffffff;
+    line-height: 1.3;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .maxa-hokej .maxa-cell-label {
-    font-size: .9rem;
+    font-size: .8rem;
     color: #bfaed6;
     font-weight: 700;
     text-transform: uppercase;
@@ -794,14 +795,14 @@ body.maxa-hokej {
 .maxa-hokej .maxa-teams-flex {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 5px;
     flex-wrap: wrap;
     justify-content: flex-end;
 }
 
 .maxa-hokej .maxa-team-name {
     font-weight: 700;
-    font-size: .9rem;
+    font-size: .8rem;
     text-transform: uppercase;
 }
 
@@ -822,7 +823,8 @@ body.maxa-hokej {
 
 .maxa-hokej .maxa-col-venue {
     color: #ffffff;
-    font-size: 1rem;
+    font-size: .8rem;
+    line-height: 1.3;
 }
 
 .maxa-hokej .maxa-status-badge {
@@ -1609,6 +1611,12 @@ body.maxa-hokej {
     }
     .maxa-hokej .maxa-cell-label {
         display: none;
+    }
+    .maxa-hokej .maxa-team-name {
+        font-size: .9rem;
+    }
+    .maxa-hokej .maxa-col-venue {
+        font-size: 1rem;
     }
     .maxa-hokej .maxa-teams-flex {
         justify-content: flex-start;
