@@ -257,7 +257,7 @@ body.maxa-hokej {
 /* HOKEJ HERO */
 
 .maxa-hokej .hockey-hero {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/hlavni-obrazek-pozadi-fix.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/hlavni-obrazek-pozadi.webp);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -405,19 +405,19 @@ body.maxa-hokej {
 }
 
 .maxa-hokej .maxa-step-card.first {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-1.png") center / cover no-repeat; 
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-1.webp") center / cover no-repeat; 
 }
 
 .maxa-hokej .maxa-step-card.second {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-2.png") center / cover no-repeat; 
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-2.webp") center / cover no-repeat; 
 }
 
 .maxa-hokej .maxa-step-card.third {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-3.png") center / cover no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-3.webp") center / cover no-repeat;
 }
 
 .maxa-hokej .maxa-step-card.fourth {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-4.png") center / cover no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jak-soutezit-4.webp") center / cover no-repeat;
 }
 
 .maxa-hokej .maxa-step-card h3 {
@@ -1548,15 +1548,15 @@ body.maxa-hokej {
 		min-height: 500px;
 	}
 	.maxa-hokej .hokej-bg-1 {
-		background-image: url('../img/hokej-stadion-1-misto.png');
+		background-image: url('../img/hokej-stadion-1-misto.webp');
 	}
 
 	.maxa-hokej .hokej-bg-2 {
-		background-image: url('../img/hokej-stadion-2-misto.png');
+		background-image: url('../img/hokej-stadion-2-misto.webp');
 	}
 
 	.maxa-hokej .hokej-bg-3 {
-		background-image: url('../img/hokej-stadion-3-misto.png');
+		background-image: url('../img/hokej-stadion-3-misto.webp');
 	}
 	.maxa-hokej .hokej-card.hokej-card-small .hokej-card-content {
 		margin: 0 5px 0 15px;
