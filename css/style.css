@@ -641,6 +641,7 @@ body.maxa-hokej {
 
 .maxa-hokej .hokej-light-weight {
 	color: #ffffff;
+	white-space: nowrap;
 }
 
 .maxa-hokej .hokej-shooters-payouts {
